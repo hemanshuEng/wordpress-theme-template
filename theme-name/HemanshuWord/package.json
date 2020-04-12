@@ -1,0 +1,19 @@
+{
+  "name": "hemanshuword",
+  "version": "1.0.0",
+  "description": "Webpack for Theme development",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack"
+  },
+  "keywords": [
+    "wordpress",
+    "theme"
+  ],
+  "author": "Hemanshu Khodiyar",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
+}
